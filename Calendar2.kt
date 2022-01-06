@@ -11,5 +11,7 @@ object Calendar2 {
         println(" Calendar's Day: " + calendar[Calendar.DATE])
         println(" MINUTE: " + calendar[Calendar.MINUTE])
         println(" SECOND: " + calendar[Calendar.SECOND])
+		println("hi")
+		afsfsfsffsf
     }
 }
